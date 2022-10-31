@@ -1,0 +1,360 @@
+1667229918866	geckodriver	INFO	Listening on 127.0.0.1:57489
+1667229918878	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--remote-debugging-port" "34799" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofileK7UQnv"
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+1667229921249	Marionette	INFO	Marionette enabled
+1667229921260	Marionette	INFO	Listening on port 44863
+Read port: 44863
+WebDriver BiDi listening on ws://127.0.0.1:34799
+1667229921484	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileK7UQnv/search.json.mozlz4", (void 0)))
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.sys.mjs
+DevTools listening on ws://127.0.0.1:34799/devtools/browser/5d9194fe-a4e8-4921-b0b9-d0caf672daaf
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.sys.mjs
+console.error: "Error during quit-application-granted: [Exception... \"File error: Not found\"  nsresult: \"0x80520012 (NS_ERROR_FILE_NOT_FOUND)\"  location: \"JS frame :: resource:///modules/BrowserGlue.jsm :: _onQuitApplicationGranted/tasks< :: line 2009\"  data: no]"
+1667229940697	Marionette	INFO	Stopped listening on port 44863
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+1667230822655	geckodriver	INFO	Listening on 127.0.0.1:46589
+1667230823174	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--remote-debugging-port" "48525" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofileR3q6JA"
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+1667230824913	Marionette	INFO	Marionette enabled
+1667230824919	Marionette	INFO	Listening on port 42555
+Read port: 42555
+WebDriver BiDi listening on ws://127.0.0.1:48525
+1667230825105	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileR3q6JA/search.json.mozlz4", (void 0)))
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.sys.mjs
+DevTools listening on ws://127.0.0.1:48525/devtools/browser/58109544-1488-4462-b33a-c3411146b03c
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.sys.mjs
+console.error: "Error during quit-application-granted: [Exception... \"File error: Not found\"  nsresult: \"0x80520012 (NS_ERROR_FILE_NOT_FOUND)\"  location: \"JS frame :: resource:///modules/BrowserGlue.jsm :: _onQuitApplicationGranted/tasks< :: line 2009\"  data: no]"
+1667230843648	Marionette	INFO	Stopped listening on port 42555
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+1667232554474	geckodriver	INFO	Listening on 127.0.0.1:44393
+1667232554984	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--remote-debugging-port" "35571" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofilesKR0hT"
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+1667232556267	Marionette	INFO	Marionette enabled
+1667232556272	Marionette	INFO	Listening on port 33403
+Read port: 33403
+WebDriver BiDi listening on ws://127.0.0.1:35571
+1667232556435	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofilesKR0hT/search.json.mozlz4", (void 0)))
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.sys.mjs
+DevTools listening on ws://127.0.0.1:35571/devtools/browser/52cf4d7a-26f8-4342-a5f4-539a37c00716
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://topdeck.ru."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://topdeck.ru."
+1667232574276	geckodriver	INFO	Listening on 127.0.0.1:44771
+1667232574769	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--remote-debugging-port" "40921" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofileVAthsZ"
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+1667232577125	Marionette	INFO	Marionette enabled
+1667232577129	Marionette	INFO	Listening on port 37767
+Read port: 37767
+WebDriver BiDi listening on ws://127.0.0.1:40921
+1667232577296	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileVAthsZ/search.json.mozlz4", (void 0)))
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.sys.mjs
+DevTools listening on ws://127.0.0.1:40921/devtools/browser/95f008de-952c-47ec-bd4f-aa678797b06c
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.sys.mjs
+console.error: "Error during quit-application-granted: [Exception... \"File error: Not found\"  nsresult: \"0x80520012 (NS_ERROR_FILE_NOT_FOUND)\"  location: \"JS frame :: resource:///modules/BrowserGlue.jsm :: _onQuitApplicationGranted/tasks< :: line 2009\"  data: no]"
+1667232591746	Marionette	INFO	Stopped listening on port 37767
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.sys.mjs
+console.error: "Error during quit-application-granted: [Exception... \"File error: Not found\"  nsresult: \"0x80520012 (NS_ERROR_FILE_NOT_FOUND)\"  location: \"JS frame :: resource:///modules/BrowserGlue.jsm :: _onQuitApplicationGranted/tasks< :: line 2009\"  data: no]"
+1667232596485	Marionette	INFO	Stopped listening on port 33403
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+1667233403728	geckodriver	INFO	Listening on 127.0.0.1:33981
+1667233403735	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--remote-debugging-port" "41699" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofilefi21Et"
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+1667233405066	Marionette	INFO	Marionette enabled
+1667233405070	Marionette	INFO	Listening on port 39683
+Read port: 39683
+WebDriver BiDi listening on ws://127.0.0.1:41699
+1667233405191	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofilefi21Et/search.json.mozlz4", (void 0)))
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.sys.mjs
+DevTools listening on ws://127.0.0.1:41699/devtools/browser/d3e75418-4e0c-4210-b159-90ab0246ff8b
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://topdeck.ru."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://topdeck.ru."
+JavaScript error: https://topdeck.ru/apps/requirejs/topdeck.require.js, line 26: Error: Script error for "tdmtg/tdmtg"
+http://requirejs.org/docs/errors.html#scripterror
+1667233422287	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'interactive'.
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.sys.mjs
+console.error: "Error during quit-application-granted: [Exception... \"File error: Not found\"  nsresult: \"0x80520012 (NS_ERROR_FILE_NOT_FOUND)\"  location: \"JS frame :: resource:///modules/BrowserGlue.jsm :: _onQuitApplicationGranted/tasks< :: line 2009\"  data: no]"
+1667234427667	Marionette	INFO	Stopped listening on port 39683
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+1667234723280	geckodriver	INFO	Listening on 127.0.0.1:47315
+1667234723789	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--remote-debugging-port" "44253" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofileqZ0Kgb"
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+1667234725745	Marionette	INFO	Marionette enabled
+1667234725751	Marionette	INFO	Listening on port 41405
+Read port: 41405
+WebDriver BiDi listening on ws://127.0.0.1:44253
+1667234725967	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileqZ0Kgb/search.json.mozlz4", (void 0)))
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.sys.mjs
+DevTools listening on ws://127.0.0.1:44253/devtools/browser/c4f42cb3-f98a-45a2-84df-113799c24ca3
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://topdeck.ru."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://topdeck.ru."
+1667234744268	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'interactive'.
+1667234815027	geckodriver	INFO	Listening on 127.0.0.1:59501
+1667234815532	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--remote-debugging-port" "48433" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofileU34l9d"
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+1667234817369	Marionette	INFO	Marionette enabled
+1667234817376	Marionette	INFO	Listening on port 33941
+Read port: 33941
+WebDriver BiDi listening on ws://127.0.0.1:48433
+1667234817624	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileU34l9d/search.json.mozlz4", (void 0)))
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.sys.mjs
+DevTools listening on ws://127.0.0.1:48433/devtools/browser/55791c78-bf1b-4909-b4cb-07d869879411
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.sys.mjs
+console.error: "Error during quit-application-granted: [Exception... \"File error: Not found\"  nsresult: \"0x80520012 (NS_ERROR_FILE_NOT_FOUND)\"  location: \"JS frame :: resource:///modules/BrowserGlue.jsm :: _onQuitApplicationGranted/tasks< :: line 2009\"  data: no]"
+1667234826530	Marionette	INFO	Stopped listening on port 41405
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://topdeck.ru."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://topdeck.ru."
+JavaScript error: https://topdeck.ru/apps/requirejs/topdeck.require.js, line 26: Error: Script error for "tdmtg/tdmtg"
+http://requirejs.org/docs/errors.html#scripterror
+1667234838575	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'interactive'.
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.sys.mjs
+console.error: "Error during quit-application-granted: [Exception... \"File error: Not found\"  nsresult: \"0x80520012 (NS_ERROR_FILE_NOT_FOUND)\"  location: \"JS frame :: resource:///modules/BrowserGlue.jsm :: _onQuitApplicationGranted/tasks< :: line 2009\"  data: no]"
+1667234865764	Marionette	INFO	Stopped listening on port 33941
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+1667235087733	geckodriver	INFO	Listening on 127.0.0.1:49139
+1667235087740	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--remote-debugging-port" "37149" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofilezmd3GE"
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+1667235089264	Marionette	INFO	Marionette enabled
+1667235089271	Marionette	INFO	Listening on port 32849
+Read port: 32849
+WebDriver BiDi listening on ws://127.0.0.1:37149
+1667235089482	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofilezmd3GE/search.json.mozlz4", (void 0)))
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.sys.mjs
+DevTools listening on ws://127.0.0.1:37149/devtools/browser/9bf4d9da-2633-4025-835b-e9a2d334f43c
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://topdeck.ru."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://topdeck.ru."
+JavaScript error: https://topdeck.ru/apps/requirejs/topdeck.require.js, line 26: Error: Script error for "tdmtg/tdmtg"
+http://requirejs.org/docs/errors.html#scripterror
+1667235097804	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'interactive'.
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.sys.mjs
+console.error: "Error during quit-application-granted: [Exception... \"File error: Not found\"  nsresult: \"0x80520012 (NS_ERROR_FILE_NOT_FOUND)\"  location: \"JS frame :: resource:///modules/BrowserGlue.jsm :: _onQuitApplicationGranted/tasks< :: line 2009\"  data: no]"
+1667235111591	Marionette	INFO	Stopped listening on port 32849
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+1667235440195	geckodriver	INFO	Listening on 127.0.0.1:35043
+1667235440201	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--remote-debugging-port" "57017" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofileP0IKOm"
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+1667235441594	Marionette	INFO	Marionette enabled
+1667235441599	Marionette	INFO	Listening on port 45125
+Read port: 45125
+WebDriver BiDi listening on ws://127.0.0.1:57017
+1667235441739	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileP0IKOm/search.json.mozlz4", (void 0)))
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.sys.mjs
+DevTools listening on ws://127.0.0.1:57017/devtools/browser/3071fb1b-d714-403d-8a5e-626ec591a6be
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://topdeck.ru."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://topdeck.ru."
+JavaScript error: https://topdeck.ru/apps/requirejs/topdeck.require.js, line 26: Error: Script error for "tdmtg/tdmtg"
+http://requirejs.org/docs/errors.html#scripterror
+1667235453400	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'interactive'.
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.sys.mjs
+console.error: "Error during quit-application-granted: [Exception... \"File error: Not found\"  nsresult: \"0x80520012 (NS_ERROR_FILE_NOT_FOUND)\"  location: \"JS frame :: resource:///modules/BrowserGlue.jsm :: _onQuitApplicationGranted/tasks< :: line 2009\"  data: no]"
+1667236788881	Marionette	INFO	Stopped listening on port 45125
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+1667237045622	geckodriver	INFO	Listening on 127.0.0.1:50237
+1667237046126	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--remote-debugging-port" "59663" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofile7deVOm"
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+1667237048221	Marionette	INFO	Marionette enabled
+1667237048227	Marionette	INFO	Listening on port 42603
+Read port: 42603
+WebDriver BiDi listening on ws://127.0.0.1:59663
+1667237048518	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofile7deVOm/search.json.mozlz4", (void 0)))
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.sys.mjs
+DevTools listening on ws://127.0.0.1:59663/devtools/browser/3388dcbb-f60d-47f6-bcba-1ad748ca3dfe
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://topdeck.ru."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://topdeck.ru."
+1667237061128	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'interactive'.
+JavaScript error: , line 0: SyntaxError: JSON.parse: unexpected character at line 1 column 1 of the JSON data
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.sys.mjs
+console.error: "Error during quit-application-granted: [Exception... \"File error: Not found\"  nsresult: \"0x80520012 (NS_ERROR_FILE_NOT_FOUND)\"  location: \"JS frame :: resource:///modules/BrowserGlue.jsm :: _onQuitApplicationGranted/tasks< :: line 2009\"  data: no]"
+1667237114411	Marionette	INFO	Stopped listening on port 42603
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+1667237148726	geckodriver	INFO	Listening on 127.0.0.1:43461
+1667237149245	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--remote-debugging-port" "41531" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofileuzkwKq"
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+1667237150664	Marionette	INFO	Marionette enabled
+1667237150669	Marionette	INFO	Listening on port 38847
+Read port: 38847
+WebDriver BiDi listening on ws://127.0.0.1:41531
+1667237150879	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileuzkwKq/search.json.mozlz4", (void 0)))
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.sys.mjs
+DevTools listening on ws://127.0.0.1:41531/devtools/browser/51fe4e0d-5728-4795-8c89-1fc0da09d376
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://topdeck.ru."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://topdeck.ru."
+1667237159589	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'interactive'.
+JavaScript error: , line 0: SyntaxError: JSON.parse: unexpected character at line 1 column 1 of the JSON data
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.sys.mjs
+console.error: "Error during quit-application-granted: [Exception... \"File error: Not found\"  nsresult: \"0x80520012 (NS_ERROR_FILE_NOT_FOUND)\"  location: \"JS frame :: resource:///modules/BrowserGlue.jsm :: _onQuitApplicationGranted/tasks< :: line 2009\"  data: no]"
+1667237182988	Marionette	INFO	Stopped listening on port 38847
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+1667237354184	geckodriver	INFO	Listening on 127.0.0.1:57859
+1667237354189	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--remote-debugging-port" "57943" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofilein15oH"
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+1667237355342	Marionette	INFO	Marionette enabled
+1667237355347	Marionette	INFO	Listening on port 45097
+Read port: 45097
+WebDriver BiDi listening on ws://127.0.0.1:57943
+1667237355463	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofilein15oH/search.json.mozlz4", (void 0)))
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.sys.mjs
+DevTools listening on ws://127.0.0.1:57943/devtools/browser/b9ce2c33-9db7-455a-9d06-366b6ffd7699
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://topdeck.ru."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://topdeck.ru."
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.sys.mjs
+console.error: "Error during quit-application-granted: [Exception... \"File error: Not found\"  nsresult: \"0x80520012 (NS_ERROR_FILE_NOT_FOUND)\"  location: \"JS frame :: resource:///modules/BrowserGlue.jsm :: _onQuitApplicationGranted/tasks< :: line 2009\"  data: no]"
+1667237383637	Marionette	INFO	Stopped listening on port 45097
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+1667237397820	geckodriver	INFO	Listening on 127.0.0.1:52923
+1667237397825	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--remote-debugging-port" "48983" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofileQ0hysJ"
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+1667237399001	Marionette	INFO	Marionette enabled
+1667237399006	Marionette	INFO	Listening on port 43611
+Read port: 43611
+WebDriver BiDi listening on ws://127.0.0.1:48983
+1667237399127	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileQ0hysJ/search.json.mozlz4", (void 0)))
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.sys.mjs
+DevTools listening on ws://127.0.0.1:48983/devtools/browser/a8fa7a6d-e190-42d4-aaf3-6009037b7dfa
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://topdeck.ru."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://topdeck.ru."
+JavaScript error: https://topdeck.ru/apps/requirejs/topdeck.require.js, line 26: Error: Script error for "tdmtg/tdmtg"
+http://requirejs.org/docs/errors.html#scripterror
+1667237606247	geckodriver	INFO	Listening on 127.0.0.1:38327
+1667237606762	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--remote-debugging-port" "47415" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofile0OFqWp"
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+1667237608203	Marionette	INFO	Marionette enabled
+1667237608208	Marionette	INFO	Listening on port 37555
+Read port: 37555
+WebDriver BiDi listening on ws://127.0.0.1:47415
+1667237608410	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofile0OFqWp/search.json.mozlz4", (void 0)))
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.sys.mjs
+DevTools listening on ws://127.0.0.1:47415/devtools/browser/c44f731a-ee3e-40e1-b971-e4688cee4e21
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://topdeck.ru."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://topdeck.ru."
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.sys.mjs
+console.error: "Error during quit-application-granted: [Exception... \"File error: Not found\"  nsresult: \"0x80520012 (NS_ERROR_FILE_NOT_FOUND)\"  location: \"JS frame :: resource:///modules/BrowserGlue.jsm :: _onQuitApplicationGranted/tasks< :: line 2009\"  data: no]"
+1667237628062	Marionette	INFO	Stopped listening on port 43611
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.sys.mjs
+console.error: "Error during quit-application-granted: [Exception... \"File error: Not found\"  nsresult: \"0x80520012 (NS_ERROR_FILE_NOT_FOUND)\"  location: \"JS frame :: resource:///modules/BrowserGlue.jsm :: _onQuitApplicationGranted/tasks< :: line 2009\"  data: no]"
+1667237629732	Marionette	INFO	Stopped listening on port 37555
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+1667237705987	geckodriver	INFO	Listening on 127.0.0.1:49147
+1667237706491	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--remote-debugging-port" "55407" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofileNOiX66"
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+1667237708313	Marionette	INFO	Marionette enabled
+1667237708320	Marionette	INFO	Listening on port 32781
+Read port: 32781
+WebDriver BiDi listening on ws://127.0.0.1:55407
+1667237708535	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileNOiX66/search.json.mozlz4", (void 0)))
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.sys.mjs
+DevTools listening on ws://127.0.0.1:55407/devtools/browser/bdb635f3-6aa5-4a8f-b10c-860d0e5e6127
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://topdeck.ru."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://topdeck.ru."
+JavaScript error: https://topdeck.ru/apps/requirejs/topdeck.require.js, line 26: Error: Script error for "tdmtg/tdmtg"
+http://requirejs.org/docs/errors.html#scripterror
+1667237783703	geckodriver	INFO	Listening on 127.0.0.1:48143
+1667237783708	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--remote-debugging-port" "32963" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofileWQB6UD"
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+1667237784996	Marionette	INFO	Marionette enabled
+1667237785001	Marionette	INFO	Listening on port 37799
+Read port: 37799
+WebDriver BiDi listening on ws://127.0.0.1:32963
+1667237785119	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileWQB6UD/search.json.mozlz4", (void 0)))
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.sys.mjs
+DevTools listening on ws://127.0.0.1:32963/devtools/browser/453ba6f7-783b-4514-a72a-3c58645885aa
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.sys.mjs
+console.error: "Error during quit-application-granted: [Exception... \"File error: Not found\"  nsresult: \"0x80520012 (NS_ERROR_FILE_NOT_FOUND)\"  location: \"JS frame :: resource:///modules/BrowserGlue.jsm :: _onQuitApplicationGranted/tasks< :: line 2009\"  data: no]"
+1667237788538	Marionette	INFO	Stopped listening on port 32781
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://topdeck.ru."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://topdeck.ru."
+1667237794662	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'interactive'.
+1667237797774	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'interactive'.
+1667237874936	geckodriver	INFO	Listening on 127.0.0.1:48895
+1667237875452	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--remote-debugging-port" "57647" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofilexyvNEf"
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+1667237876867	Marionette	INFO	Marionette enabled
+1667237876871	Marionette	INFO	Listening on port 41597
+Read port: 41597
+WebDriver BiDi listening on ws://127.0.0.1:57647
+1667237877026	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofilexyvNEf/search.json.mozlz4", (void 0)))
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.sys.mjs
+DevTools listening on ws://127.0.0.1:57647/devtools/browser/b30e8035-6c80-42bd-af33-c9a02ae03dae
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://topdeck.ru."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://topdeck.ru."
+JavaScript error: https://topdeck.ru/apps/requirejs/topdeck.require.js, line 26: Error: Script error for "tdmtg/tdmtg"
+http://requirejs.org/docs/errors.html#scripterror
+1667237889138	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'interactive'.
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.sys.mjs
+console.error: "Error during quit-application-granted: [Exception... \"File error: Not found\"  nsresult: \"0x80520012 (NS_ERROR_FILE_NOT_FOUND)\"  location: \"JS frame :: resource:///modules/BrowserGlue.jsm :: _onQuitApplicationGranted/tasks< :: line 2009\"  data: no]"
+1667237912384	Marionette	INFO	Stopped listening on port 41597
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.sys.mjs
+console.error: "Error during quit-application-granted: [Exception... \"File error: Not found\"  nsresult: \"0x80520012 (NS_ERROR_FILE_NOT_FOUND)\"  location: \"JS frame :: resource:///modules/BrowserGlue.jsm :: _onQuitApplicationGranted/tasks< :: line 2009\"  data: no]"
+1667237923766	Marionette	INFO	Stopped listening on port 37799
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
